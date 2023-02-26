@@ -1,0 +1,17 @@
+Some Advantage of this program is:
+
+1.The program uses the SVD decomposition method, which is efficient for computing the least-squares solution of a system of linear equations.
+I have done some analysis and it says that QR factorizatio is not most efficient method for solving very large or sparse linear systems.
+That is the reason I have used SVD decompostion method
+
+2.It is Robust the SVD decomposition is a robust method for solving linear systems, as it can handle cases where the system may be ill-conditioned or singular.
+
+3.The program calculates the norm of the residual, which gives an indication of the accuracy of the computed solution.
+
+4.This program is felxible , program can handle any matrix size, which makes it suitable for a wide range of applications.
+
+Some of the disadvantage which this code is :
+
+1.linear_eqation_class class does not have any error handling or input validation, which could lead to unexpected behavior or crashes if the input data is not in the expected format.
+
+2. Currently the program does not provide any options for user interaction or input of custom data, which limits its usefulness and flexibility.
