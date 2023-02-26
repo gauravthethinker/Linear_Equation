@@ -1,2 +1,2 @@
-# Linear_Equation
+# Solving linear equation using SVD decomposition  
 
