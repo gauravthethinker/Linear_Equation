@@ -4,7 +4,7 @@ Some Advantage of this program is:
 I have done some analysis and it says that QR factorizatio is not most efficient method for solving very large or sparse linear systems.
 That is the reason I have used SVD decompostion method
 
-2.It is Robust the SVD decomposition is a robust method for solving linear systems, as it can handle cases where the system may be ill-conditioned or singular.
+2.It is robust, the SVD decomposition is a robust method for solving linear systems, as it can handle cases where the system may be ill-conditioned or singular.
 
 3.The program calculates the norm of the residual, which gives an indication of the accuracy of the computed solution.
 
